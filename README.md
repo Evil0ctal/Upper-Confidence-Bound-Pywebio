@@ -10,7 +10,9 @@
 
 ## 截图
 
+![](https://raw.githubusercontent.com/Evil0ctal/Upper-Confidence-Bound-Pywebio/refs/heads/main/screenshots/2024-09-21_18-09-17.png)
 
+![](https://raw.githubusercontent.com/Evil0ctal/Upper-Confidence-Bound-Pywebio/refs/heads/main/screenshots/09-21-2024_06_28.png)
 
 ## 快速开始
 
